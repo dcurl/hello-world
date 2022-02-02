@@ -1,0 +1,19 @@
+  .nav-navbox {
+      background-color: black;
+      max-width: 100%;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+  .nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+  }
+  .nav-link-item {
+    padding-right: 2rem;
+  }
+  .nav-link-text {
+    color: white;
+  }
